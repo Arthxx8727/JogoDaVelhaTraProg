@@ -1,0 +1,19 @@
+/* centraliza o texto para o centro da tela */
+body {
+  text-align: center;
+}
+
+/* muda a cor de fundo dos blocos para roxo e muda o tamanho deles para 50 pixels (horizontal e vertical) */
+th {
+  background-color:rgba(153, 0, 255, 0.835);
+  width: 50px;
+  height: 50px;
+}
+
+/* tira a linha do link, muda a cor de fundo dele para roxo, muda a cor do texto para branco e muda a margem interna para 10 pixels */
+a {
+  text-decoration: none;
+  background-color: rgba(153, 0, 255, 0.835);
+  color: white;
+  padding: 10px;
+}
